@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm an undergrad Computer Science student passionate about AI, Big Data, Blockchain and DLT and System Programming/IoT. 
 
+🔭 I’m currently working on this page :sweat_smile: 
 <!--
 **HrishikeshIyer/HrishikeshIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
