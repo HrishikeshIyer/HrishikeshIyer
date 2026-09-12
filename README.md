@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm an undergrad Computer Science student passionate about AI, Big Data, Blockchain and DLT and System Programming/IoT. 
+## Hey there 👋
+I'm a Computer Science grad, passionate about AI, Big Data, Systems Programming/OS and IoT.
 
 🔭 I’m currently working on this page :sweat_smile: 
 <!--
